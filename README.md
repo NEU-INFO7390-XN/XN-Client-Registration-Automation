@@ -1,5 +1,13 @@
 # Client-Registration-Automation
 
+## Course Archive Notice
+
+This repository is an official course archive for the **INFO7390 Experiential Learning (XN) Project – Fall 2024** at Northeastern University.
+
+Forked from: https://github.com/Faridghr/Client-Registration-Automation  
+Original authorship and full commit history are preserved.
+
+
 This project is designed to automate and streamline the client registration process for a organization. The organization, which currently uses **JotForm** for course registration, faces inefficiencies due to manual tasks such as verifying **cards** and reviewing **e-transfer payment screenshots**. These time-consuming steps require significant staff resources, leading to delays and potential errors. This project addresses these challenges by developing a solution to **automate** these manual processes, ensuring accuracy and improving operational efficiency.
 
 ![ProjectStructure](png/ProjectStructure.png)
